@@ -1,6 +1,8 @@
 # shitt_py_tty
 A quick AI script for launching a TTY in the browser to quickly set up local servers without a monitor or keyboard
 
+# Don't forget to open the firewall port if you're going to use this crap outside your local machine 
+
 # 🖥️ Web Terminal (shitt_py_tty)
 
 A lightweight, browser-based terminal emulator for Linux servers. Built with FastAPI, WebSockets, PTY, and xterm.js.
